@@ -10,7 +10,11 @@
     }
   }
 
-  .headerlink {
+  p {
+      text-indent:2em;
+  }
+
+  .headerlink,h2,h3,h4 {
     &:hover {
       border-bottom: 0;
     }
@@ -51,6 +55,8 @@
   }
 
   img {
+    position: relative;
+    left: -2em;
     display: inline-block;
     max-width: 100%;
   }

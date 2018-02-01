@@ -36,3 +36,5 @@
 {% if not env.debug %}
   {% include "../_script/analytics.swig" %}
 {% endif %}
+
+{% include "../_script/mathjax.swig" %}
