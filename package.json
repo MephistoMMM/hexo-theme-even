@@ -8,16 +8,16 @@
     "simple",
     "light"
   ],
-  "author": "ahonn",
+  "author": "Mephito Pheies",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahonn/hexo-theme-even.git"
+    "url": "git+https://github.com/MephitoMMM/hexo-theme-even.git"
   },
   "bugs": {
-    "url": "https://github.com/ahonn/hexo-theme-even/issues"
+    "url": "https://github.com/MephitoMMM/hexo-theme-even/issues"
   },
-  "homepage": "https://github.com/ahonn/hexo-theme-even#readme",
+  "homepage": "https://github.com/MephitoMMM/hexo-theme-even#readme",
   "devDependencies": {
     "eslint": "^3.12.0"
   }
